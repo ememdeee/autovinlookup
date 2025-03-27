@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://www.toyotavindecoder.com/sitemap.xml
+Sitemap: https://www.autovinlookup.com/sitemap.xml

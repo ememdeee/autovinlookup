@@ -1,16 +1,16 @@
 import { Mail, MapPin, Clock, MessageSquare } from "lucide-react"
 import { Metadata } from "next"
-import { generateMetadataHelper } from "../componenets/MetaGenerator"
+import { generateMetadataHelper } from "../componenets-global/MetaGenerator"
 
 // This function generates the metadata for your page
 export async function generateMetadata(): Promise<Metadata> {
   
   const content = {
     metaTitle: "Contact Us | Get in Touch with Our Team",
-    metaDescription: "Have questions or need assistance? Reach out to Toyota VIN Decoder's support team for expert help and quick responses.",
-    canonical: "https://www.toyotavindecoder.com/contact-us", 
+    metaDescription: "Have questions or need assistance? Reach out to Auto VIN Lookup's support team for expert help and quick responses.",
+    canonical: "https://www.autovinlookup.com/contact-us", 
     title: "Contact Us | Get in Touch with Our Team",
-    description: "Have questions or need assistance? Reach out to Toyota VIN Decoder's support team for expert help and quick responses.",
+    description: "Have questions or need assistance? Reach out to Auto VIN Lookup's support team for expert help and quick responses.",
     type: "website" as const,
     seo: [],
   }
@@ -32,7 +32,7 @@ export default function ContactPage() {
               Have questions about our VIN decoder services? We&apos;re here to help!
             </p>
             <p className="text-foreground/80 leading-relaxed text-lg">
-              Our dedicated support team is ready to assist you with any inquiries about Toyota VIN decoding, window
+              Our dedicated support team is ready to assist you with any inquiries about VIN decoding, window
               stickers, or dealer services.
             </p>
           </div>
@@ -50,8 +50,8 @@ export default function ContactPage() {
                 <h2 className="text-2xl font-bold text-primary">Email Us</h2>
               </div>
               <p className="text-foreground/80 mb-4">Send us an email anytime. We typically respond within 24 hours.</p>
-              <a href="mailto:info@toyotavindecoder.com" className="text-primary hover:underline font-medium">
-                info@toyotavindecoder.com
+              <a href="mailto:info@autovinlookup.com" className="text-primary hover:underline font-medium">
+                info@{process.env.SITE_NAME}
               </a>
             </div>
 
@@ -87,7 +87,7 @@ export default function ContactPage() {
               <p className="text-foreground/80 mb-4">
                 Need immediate assistance? Chat with our support team during business hours.
               </p>
-              <a href="mailto:info@toyotavindecoder.com">
+              <a href="mailto:info@autovinlookup.com">
                 <button className="inline-block px-6 py-2 bg-primary/10 text-primary border-2 border-primary font-serif text-base font-semibold transition-all duration-300 ease-in-out hover:bg-primary/20 relative overflow-hidden group">
                   <span className="relative z-10">Start Chat</span>
                   <span className="absolute inset-0 bg-primary/5 transform -skew-x-12 -translate-x-full transition-transform duration-300 ease-out group-hover:translate-x-0"></span>

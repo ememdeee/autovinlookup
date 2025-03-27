@@ -37,7 +37,7 @@ function getManualPages(dir: string): string[] {
 }
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const baseUrl = 'https://www.toyotavindecoder.com'
+  const baseUrl = 'https://www.autovinlookup.com'
 
   // 1. Homepage
   const homePageDates = getPageDates('/');
