@@ -1,5 +1,3 @@
-import Link from "next/link"
-import { Car, FileText, Store, ArrowRight } from "lucide-react"
 import SourceAndPartner from "../componenets-global/SourceAndPartner"
 import { Metadata } from "next"
 import { generateMetadataHelper } from "../componenets-global/MetaGenerator"

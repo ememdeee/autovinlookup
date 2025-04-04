@@ -1,4 +1,3 @@
-import Link from "next/link"
 import { generateMetadataHelper } from "../componenets-global/MetaGenerator"
 import { Metadata } from "next"
 import Privacy from "../componenets-global/Privacy"
