@@ -27,6 +27,9 @@ function getEnvVar(key: string, fallback: string): string {
 
   // Media
   export const getDefaultThemeColor = () => getEnvVar('THEME_COLOR', 'red')
+
+  // Indexability
+  export const getDefaultIndexability = () => getEnvVar('SITE_INDEX', 'index')
   
   // Helper function to get a value with a fallback
   export function getValueWithDefault<T>(value: T | undefined | null, defaultGetter: () => T): T {
@@ -42,4 +45,5 @@ function getEnvVar(key: string, fallback: string): string {
     authorUrl: getDefaultAuthorUrl(),
     imageUrl: getDefaultImageUrl(),
     themeColor: getDefaultThemeColor(),
+    indexability: getDefaultIndexability(),
   }

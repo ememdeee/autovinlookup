@@ -8,6 +8,8 @@ const getContentMap = cache(async (page: string) => {
   switch (page) {
     case 'vin-decoder':
       return import('@/data/vinDecoderMakes.json').then(m => m.default)
+    case 'license-plate-lookup':
+      return import('@/data/licensePlateLookupStates.json').then(m => m.default)
     default:
       return {}
   }

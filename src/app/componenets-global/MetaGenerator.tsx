@@ -1,6 +1,6 @@
 // v 1.0.2
 import type { Metadata } from "next"
-import { getDefaultAuthorName, getDefaultAuthorUrl, getDefaultImageUrl, getSiteName} from '@/app/componenets-global/defaults';
+import { getDefaultAuthorName, getDefaultAuthorUrl, getDefaultImageUrl, getSiteName, getDefaultIndexability} from '@/app/componenets-global/defaults';
 
 interface Content {
   metaTitle?: string
@@ -27,7 +27,16 @@ export function generateMetadataHelper(content: Content): Metadata {
     url: getDefaultAuthorUrl(),
   }
 
-  const seoTags = content.seo || ["index", "follow", "website"]
+
+  const defaultIndexability = getDefaultIndexability()
+
+  let defaultSeoTags
+  if (defaultIndexability === "noindex") {
+    defaultSeoTags = ["noindex", "nofollow", "website"]
+  } else {
+    defaultSeoTags = ["index", "follow", "website"]
+  }
+  const seoTags = content.seo || defaultSeoTags
 
   const showIndex = !seoTags.some(tag => tag.toLowerCase().includes('noindex'))
   const showFollow = !seoTags.some(tag => tag.toLowerCase().includes('nofollow'))

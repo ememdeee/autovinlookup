@@ -33,10 +33,10 @@ export function Navbar() {
                 <NavLink href="/window-sticker-by-vin">Window Sticker</NavLink>
               </NavigationMenuItem>
               <NavigationMenuItem>
-                <NavLink href="/unlimited-vin-check-carfax-for-dealers">For Dealers</NavLink>
+                <NavLink href="/license-plate-lookup">License Plat Lookup</NavLink>
               </NavigationMenuItem>
               <NavigationMenuItem>
-                <NavLink href="/about-us">About Us</NavLink>
+                <NavLink href="/unlimited-vin-check-carfax-for-dealers">For Dealers</NavLink>
               </NavigationMenuItem>
               <NavigationMenuItem>
                 <NavLink href="/contact-us">Contact Us</NavLink>
@@ -49,9 +49,7 @@ export function Navbar() {
                   <div className="w-[400px] p-4 md:w-[500px] lg:w-[600px] bg-secondary/50">
                     <div className="grid gap-3 md:grid-cols-2">
                       <ToolLink href="/build-sheet-by-vin" title="Build Sheet by VIN" description="Get a complete factory build sheet for any Toyota by VIN." />
-                      <ToolLink href="/options-by-vin" title="Option By VIN" description="Look up factory-installed options and packages for any Toyota by VIN." />
                       <ToolLink href="/warranty-by-vin" title="Warranty Check" description="Check the warranty status and coverage details of a Toyota by VIN." />
-                      <ToolLink href="/specs-by-vin" title="Specs By VIN" description="Retrieve detailed specifications, including engine, transmission, and dimensions, for any Toyota by VIN." />
                       <ToolLink href="/paint-code-by-vin" title="Paint Code by VIN" description="Find the exact paint code and color details for a Toyota by VIN." />
                     </div>
                   </div>
