@@ -72,7 +72,7 @@ export default function BlogList({
     },
     "datePublished": blog.datePublished,
     "dateModified": blog.dateModified,
-    "mainEntityOfPage": `${getBaseUrl()}blogs/${slug}`,
+    "mainEntityOfPage": `${getBaseUrl()}/blogs/${slug}`,
     "image": blog.imageUrl ? `${blog.imageUrl}` : `${getDefaultImageUrl()}`,
     "articleBody": blog.description
   }));

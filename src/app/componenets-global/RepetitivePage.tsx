@@ -17,17 +17,19 @@ import styles from './RepetitivePage.module.css'
 import ArticleSchema from './ArticleSchema'
 import HeroSection from '../components/HeroSection'
 import { Content, RepetitivePageProps, Section } from './contentTypes';
+import { getBaseUrl } from './defaults';
 
 function getCanonicalUrl(content: Content, key: string, parent: string): string {
-  const baseUrl = process.env.DOMAIN_NAME || 'https://www.chassisvin.com/'
+  // console.log("key: ", key, " Parent: ", parent)
+  const baseUrl = getBaseUrl()
   
   // Build the path with parent if provided
   let path = key
-  if (parent) {
+  if (parent != "-") {
     path = `${parent}/${key}`
   }
   
-  return content.canonical || `${baseUrl}${path}`
+  return content.canonical || `${baseUrl}/${path}`
 }
 
 function getContent(contents: { [key: string]: Content }, key: string): Content | null {
@@ -36,7 +38,9 @@ function getContent(contents: { [key: string]: Content }, key: string): Content 
 
 export function generateMetadata({ contents, params }: Pick<RepetitivePageProps, "contents" | "params">): Metadata {
   const key = params.make || params.page
-  const parent = params.page
+  console.log("params: ", params)
+
+  const parent = params.make != null ? params.page : "-"
   const content = getContent(contents, key)
   if (!content) return {}
 

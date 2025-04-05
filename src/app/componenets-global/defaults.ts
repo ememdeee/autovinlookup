@@ -15,15 +15,15 @@ function getEnvVar(key: string, fallback: string): string {
   
   // Site information
   export const getSiteName = () => getEnvVar('SITE_NAME', 'SiteName')
-  export const getBaseUrl = () => getEnvVar('DOMAIN_NAME', 'https://www.domain.com/')
-  export const getPublisherLogoUrl = () => getEnvVar('PUBLISHER_LOGO', 'https://www.domain.com/logo.png')
+  export const getBaseUrl = () => getEnvVar('DOMAIN_NAME', 'https://www.domain.com')
+  export const getPublisherLogoUrl = () => `${getBaseUrl()}${getEnvVar("PUBLISHER_LOGO", "/logo.png")}`
   
   // Author information
   export const getDefaultAuthorName = () => getEnvVar('OWNER_NAME', 'Author Name')
-  export const getDefaultAuthorUrl = () => getEnvVar('OWNER_PAGE', '/author/url')
+  export const getDefaultAuthorUrl = () => `${getBaseUrl()}${getEnvVar("OWNER_PAGE", "/author/url")}`
   
   // Media
-  export const getDefaultImageUrl = () => getEnvVar('OG_IMAGE', '/default-og-image.png')
+  export const getDefaultImageUrl = () => `${getBaseUrl()}${getEnvVar("OG_IMAGE", "/default-og-image.png")}`
 
   // Media
   export const getDefaultThemeColor = () => getEnvVar('THEME_COLOR', 'red')
