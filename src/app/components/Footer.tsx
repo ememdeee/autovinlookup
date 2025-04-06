@@ -13,7 +13,7 @@ export function Footer() {
                   href="/"
                   className="text-sm text-foreground/80 hover:text-primary transition-colors font-serif"
                 >
-                  Toyota Vin Decoder
+                  Auto VIN Lookup
                 </Link>
               </li>
               <li>
@@ -40,14 +40,6 @@ export function Footer() {
                   Warranty Check By VIN
                 </Link>
               </li>
-              <li>
-                <Link
-                  href="/options-by-vin"
-                  className="text-sm text-foreground/80 hover:text-primary transition-colors font-serif"
-                >
-                  Options By VIN
-                </Link>
-              </li>
             </ul>
           </div>
           <div className="space-y-3">
@@ -59,14 +51,6 @@ export function Footer() {
                   className="text-sm text-foreground/80 hover:text-primary transition-colors font-serif"
                 >
                   Find Dealers
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/specs-by-vin"
-                  className="text-sm text-foreground/80 hover:text-primary transition-colors font-serif"
-                >
-                  Specs By VIN
                 </Link>
               </li>
               <li>

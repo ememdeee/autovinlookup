@@ -9,7 +9,7 @@ export default function Privacy() {
             <section className="vintage-card p-6 border-2 border-primary/20 bg-white/70 backdrop-blur-sm shadow-md">
                 <h2 className="text-2xl font-bold text-primary mb-4">Introduction</h2>
                 <p className="text-foreground/80 leading-relaxed">
-                At ToyotaVINDecoder.com (&apos;Toyota VIN Decoder&apos;), we are committed to protecting your privacy and supporting
+                At AutoVinLookup.com (&apos;Toyota VIN Decoder&apos;), we are committed to protecting your privacy and supporting
                 a general policy of openness about how we collect, use and disclose your personal information. This
                 Privacy Policy informs you about our practices relating to the collection, use and disclosure of personal
                 information through your access to or use of the Toyota VIN Decoder Services. By using any of our

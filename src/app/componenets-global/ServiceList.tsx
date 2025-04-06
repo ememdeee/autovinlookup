@@ -16,14 +16,32 @@ export default function ServiceList() {
         title: "Window Sticker",
         description: "Generate and print an authentic window sticker for any vehicle using its VIN.",
         icon: Printer,
-        path: "/window-sticker",
+        path: "/window-sticker-by-vin",
       },
       {
         title: "Build Sheet by VIN",
-        description: "Obtain a comprehensive factory build sheet detailing all specifications for any using its VIN.",
+        description: "Obtain a comprehensive factory build sheet detailing all specifications for any Toyota using its VIN.",
         icon: FileText,
         path: "/build-sheet-by-vin",
-      }
+      },
+      {
+        title: "Dealers",
+        description: "Access unlimited vehicle history reports and detailed information for Toyota dealerships.",
+        icon: Store,
+        path: "/unlimited-vin-check-carfax-for-dealers",
+      },
+      {
+        title: "Paint Code by VIN",
+        description: "Find the exact paint code and color details for a Toyota by VIN.",
+        icon: Palette,
+        path: "/paint-code-by-vin",
+      },
+      {
+        title: "Warranty Check",
+        description: "Check the warranty status and coverage details of a Toyota by VIN.",
+        icon: Shield,
+        path: "/warranty-by-vin",
+      },
     ];
   } else if (baseUrl.includes('toyotavindecoder')) {
     services = [

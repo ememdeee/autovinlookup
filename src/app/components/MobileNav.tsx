@@ -36,14 +36,8 @@ export function MobileNav() {
           <MobileNavLink href="/build-sheet-by-vin" onClick={closeSheet}>
             Build Sheet by VIN
           </MobileNavLink>
-          <MobileNavLink href="/options-by-vin" onClick={closeSheet}>
-            Option by VIN
-          </MobileNavLink>
           <MobileNavLink href="/warranty-by-vin" onClick={closeSheet}>
             Warranty by VIN
-          </MobileNavLink>
-          <MobileNavLink href="/specs-by-vin" onClick={closeSheet}>
-            Specs by VIN
           </MobileNavLink>
           <MobileNavLink href="/paint-code-by-vin" onClick={closeSheet}>
             Paint Code by VIN

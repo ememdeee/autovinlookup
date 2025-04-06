@@ -12,7 +12,7 @@ export async function generateMetadata(): Promise<Metadata> {
   const content = {
     metaTitle: "Free Toyota VIN Decoder | ToyotanVinDecoder",
     metaDescription: "Free Toyota VIN Decoder - Get a free VIN Decoder and lookup the detailed Toyota vehicle history report with the Toyota VIN Number.",
-    canonical: "https://www.toyotavindecoder.com/", 
+    canonical: "https://www.autovinlookup.com/", 
     title: "Free Toyota VIN Decoder",
     description: "Get detailed information about your vehicle with our VIN Decoder tool",
     type: "website" as const,

@@ -139,7 +139,6 @@
     "metaDescription": "Get the original window sticker by VIN. Easily access the Monroney label showcasing MSRP, car model, specs, standard features, fuel economy, and more.",
     "datePublished": "2025-03-25T08:00:00Z",
     "dateModified": "2025-03-25T08:00:00Z",
-    "dataSources": [{"source": "makesList", "prefix": "window-sticker-by-vin"}],
     "sections": [
       {
         "heading": "Here's The Easiest Way to Get the Original Window Sticker From VIN",
@@ -471,7 +470,6 @@
     "metaDescription": "Get vehicle specs, options, and packages instantly with our VIN build sheet. Decode your VIN now for comprehensive vehicle details.",
     "datePublished": "2025-04-02T08:00:00Z",
     "dateModified": "2025-04-02T08:00:00Z",
-    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "sections": [
       {
         "heading": "Get a Vehicle Build Sheet Using VIN",
@@ -583,7 +581,6 @@
     "metaDescription": "Get the accurate paint code for your vehicle using its VIN. Find matching touch-up paint and repair scratches flawlessly.",
     "datePublished": "2025-04-03T08:00:00Z",
     "dateModified": "2025-04-03T08:00:00Z",
-    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "sections": [
       {
         "heading": "Paint Code by VIN: Unlock Your Vehicle's Original Color",
@@ -689,7 +686,6 @@
     "metaDescription": "Easily check your car's warranty status with our VIN lookup. Find out what's covered and avoid unexpected repair expenses.",
     "datePublished": "2025-04-03T08:00:00Z",
     "dateModified": "2025-04-03T08:00:00Z",
-    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
     "sections": [
       {
         "heading": "Car Warranty VIN Check | Protect Your Investment: Verify Coverage Today",

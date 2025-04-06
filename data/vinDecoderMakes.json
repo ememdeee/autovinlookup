@@ -26,7 +26,7 @@
       {
         "heading": "Verify Window Sticker",
         "headingLevel": "h3",
-        "content": "<p>It's important to confirm the details on the window sticker of your Acura. You can run an <a href='https://www.chassisvin.com/window-sticker'>Acura Window Sticker lookup</a> to ensure that everything matches. This helps prevent any misrepresentations about the vehicle.</p>"
+        "content": "<p>It's important to confirm the details on the window sticker of your Acura. You can run an <a href='https://www.autovinlookup.com/window-sticker-by-vin'>Acura Window Sticker lookup</a> to ensure that everything matches. This helps prevent any misrepresentations about the vehicle.</p>"
       },
       {
         "heading": "Accident History",
@@ -1860,6 +1860,104 @@
       }
     ]
   },
+  "eagle": {
+    "title": "Eagle VIN Decoder",
+    "description": "Decode your Eagle VIN to reveal factory specs, engine info, history reports, and more.",
+    "metaTitle": "Eagle VIN Decoder | Lookup VIN Info & Specs",
+    "metaDescription": "Use the International Eagle VIN Decoder to discover engine type, trim, production data, safety features, and full vehicle history.",
+    "datePublished": "2025-03-29T08:00:00Z",
+    "dateModified": "2025-03-29T08:00:00Z",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
+    "sections": [
+      {
+        "heading": "Eagle VIN Decoder Overview",
+        "headingLevel": "h2",
+        "content": "<p>Our VIN Decoder helps identify and verify critical information about your Eagle truck or legacy Eagle passenger car. Get detailed specs, engine codes, and even factory configuration images.</p>"
+      },
+      {
+        "heading": "Why Decode Your VIN?",
+        "headingLevel": "h3",
+        "content": "<p>Whether purchasing or maintaining a vehicle, decoding the VIN helps ensure you know the original equipment, prevent fraud, and source correct replacement parts.</p>"
+      },
+      {
+        "heading": "What is a VIN?",
+        "headingLevel": "h3",
+        "content": "<p>VIN stands for Vehicle Identification Number – a 17-character alphanumeric code that uniquely identifies your vehicle and encodes data about its build, engine, and more.</p>"
+      },
+      {
+        "heading": "VIN Format Breakdown",
+        "headingLevel": "h4",
+        "content": "<table><thead><tr><th>Position</th><th>Represents</th></tr></thead><tbody><tr><td>1–3</td><td>World Manufacturer Identifier (WMI)</td></tr><tr><td>4–8</td><td>Vehicle specs, engine, body type</td></tr><tr><td>9</td><td>Security check digit</td></tr><tr><td>10</td><td>Model year</td></tr><tr><td>11</td><td>Assembly plant</td></tr><tr><td>12–17</td><td>Production sequence number</td></tr></tbody></table>"
+      },
+      {
+        "heading": "Where to Find the VIN",
+        "headingLevel": "h3",
+        "content": "<ul><li>Driver's side dashboard (visible through windshield)</li><li>Driver's door jamb or post</li><li>Engine compartment on metal plate</li><li>Vehicle registration and insurance docs</li></ul>"
+      },
+      {
+        "heading": "Decode Eagle VINs for Legacy Models",
+        "headingLevel": "h2",
+        "content": "<p>Decode VINs for older Eagle models like Premier, Summit, and Talon. Access specs, transmission details, and owner/registration history.</p>"
+      },
+      {
+        "heading": "Sample Eagle VIN Lookups",
+        "headingLevel": "h4",
+        "content": "<table><thead><tr><th>VIN</th><th>Model & Year</th><th>Engine</th></tr></thead><tbody><tr><td>JE3BR56VXNZ028481</td><td>1992 Eagle 2000 GTX</td><td>2.0L Inline</td></tr><tr><td>VF1FF45B5J2772265</td><td>1988 Eagle Medallion</td><td>2.2L</td></tr><tr><td>2E3CB66U5LH709537</td><td>1990 Eagle Premier</td><td>3.0L V6</td></tr></tbody></table>"
+      },
+      {
+        "heading": "Supported Eagle & International Models",
+        "headingLevel": "h3",
+        "content": "<ul><li>International: PROSTAR, LONESTAR, DURASTAR, WORKSTAR, 9900I, TERRASTAR, TRANSTAR</li><li>Eagle: Premier, Summit, Talon, Vista</li></ul>"
+      },
+      {
+        "heading": "Benefits of Using a VIN Decoder",
+        "headingLevel": "h3",
+        "content": "<ul><li>Verify specs for parts ordering</li><li>Confirm model year and production location</li><li>Detect mileage rollback or accident history</li><li>Visualize original configuration (color, trim, wheels)</li></ul>"
+      },
+      {
+        "heading": "Used Vehicle History Reports",
+        "headingLevel": "h3",
+        "content": "<p>Use decoded VINs to pull reports from services like Carfax, AutoCheck, or carVertical. These provide accident history, theft status, service logs, and more.</p>"
+      },
+      {
+        "heading": "Visual Configuration Support",
+        "headingLevel": "h3",
+        "content": "<p>Some VIN decoder platforms provide visual configuration previews of your International Eagle vehicle—including color, wheels, and trim options for an immersive digital showroom experience.</p>"
+      },
+      {
+        "heading": "International Eagle VIN Decoder Features",
+        "headingLevel": "h2",
+        "content": "<ul><li>VIN location guide</li><li>Build sheet generation</li><li>Legacy Eagle model support</li><li>Visual configuration</li><li>Accident and mileage tracking</li></ul>"
+      },
+      {
+        "heading": "Start Your International Eagle VIN Search",
+        "headingLevel": "CTA",
+        "content": "#"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can You Decode an Eagle VIN to Find Its Engine Type and Technical Specifications?",
+        "answer": "Yes, the VIN reveals the original engine configuration, transmission, and other technical specs for both International Eagle and legacy Eagle vehicles."
+      },
+      {
+        "question": "Which Part of an Eagle VIN Indicates Its Production Year?",
+        "answer": "The 10th digit of the VIN represents the model year of the vehicle."
+      },
+      {
+        "question": "What Features Does an Eagle VIN Decoder Show?",
+        "answer": "VIN decoding can show factory-installed features, trim level, model, engine size, transmission type, safety systems, and build location."
+      },
+      {
+        "question": "Can I Find the Build Sheet Using a VIN?",
+        "answer": "Yes, some services provide original build sheets, listing every feature and option installed at the factory."
+      },
+      {
+        "question": "Is the International Eagle VIN Decoder Free?",
+        "answer": "Yes, the basic decoding is typically free. More advanced reports like accident history or ownership may cost extra on platforms like Carfax or AutoCheck."
+      }
+    ]
+  },
   "fiat": {
     "title": "Fiat VIN Decoder",
     "description": "Unlock the history of your Fiat with our comprehensive VIN decoder tool for all Fiat models.",
@@ -2539,6 +2637,187 @@
       {
         "question": "How can I avoid VIN lookup scams?",
         "answer": "Use reputable VIN decoding websites, cross-check information with official sources like the NHTSA, and avoid unverified platforms that may provide false data."
+      }
+    ]
+  },
+  "geo": {
+    "title": "Geo VIN Decoder",
+    "description": "Get full build details and history reports using our Geo VIN decoder.",
+    "metaTitle": "Geo VIN Decoder | Decode GEO Tracker, Prizm, Storm & More",
+    "metaDescription": "Use the Geo VIN Decoder to unlock specs, check history, and verify features on any Geo model.",
+    "datePublished": "2025-04-06T08:00:00Z",
+    "dateModified": "2025-04-06T08:00:00Z",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
+    "sections": [
+      {
+        "heading": "What is a Geo VIN?",
+        "headingLevel": "h2",
+        "content": "<p>Every Geo vehicle has a unique 17-character VIN. It holds details about the model, year, engine, and factory.</p><p>You can use it to find build specs, parts, service records, and more.</p>"
+      },
+      {
+        "heading": "Why Use a Geo VIN Decoder?",
+        "headingLevel": "h3",
+        "content": "<p>The decoder helps verify the car's details. It's useful before buying, selling, or repairing a Geo.</p><p>You’ll see features, history, and if anything was changed or damaged.</p>"
+      },
+      {
+        "heading": "Geo VIN Format Explained",
+        "headingLevel": "h3",
+        "content": "<p>The VIN has 3 parts:</p><ul><li><strong>WMI (1–3):</strong> Manufacturer ID and region</li><li><strong>VDS (4–9):</strong> Vehicle type, model, engine, and body style</li><li><strong>VIS (10–17):</strong> Model year, factory, and unique serial number</li></ul>"
+      },
+      {
+        "heading": "Where to Find the VIN",
+        "headingLevel": "h4",
+        "content": "<p>Look here for your Geo’s VIN:</p><ul><li>Windshield base (driver’s side)</li><li>Driver door frame</li><li>Engine block</li><li>Title or insurance card</li></ul>"
+      },
+      {
+        "heading": "Geo VIN Lookup Tools",
+        "headingLevel": "h2",
+        "content": "<p>Use our decoder to check a VIN or license plate. It gives you specs, recalls, auction info, and theft checks.</p><p>You can even see the window sticker and build sheet.</p>"
+      },
+      {
+        "heading": "Build Sheet Details",
+        "headingLevel": "h3",
+        "content": "<p>The build sheet shows what came with the car from the factory. It lists options, color, trim, and packages.</p><p>This helps verify what’s original and what’s been changed.</p>"
+      },
+      {
+        "heading": "Common Models You Can Decode",
+        "headingLevel": "h3",
+        "content": "<ul><li>Geo Metro</li><li>Geo Prizm</li><li>Geo Spectrum</li><li>Geo Sprint</li><li>Geo Storm</li><li>Geo Tracker</li></ul>"
+      },
+      {
+        "heading": "Geo VIN Decoder Table",
+        "headingLevel": "h4",
+        "content": "<p>Here’s a breakdown of VIN digits:</p><table><thead><tr><th>Position</th><th>Meaning</th><th>Example</th></tr></thead><tbody><tr><td>1</td><td>Country</td><td>1 = USA</td></tr><tr><td>2</td><td>Maker</td><td>G = Geo</td></tr><tr><td>10</td><td>Model Year</td><td>V = 1997</td></tr></tbody></table>"
+      },
+      {
+        "heading": "Geo VIN History Report Table",
+        "headingLevel": "h4",
+        "content": "<p>Sample report items:</p><table><thead><tr><th>Item</th><th>Description</th><th>Status</th></tr></thead><tbody><tr><td>Odometer</td><td>Track mileage over time</td><td>No rollback</td></tr><tr><td>Title</td><td>Check for salvage or rebuilt</td><td>Clean</td></tr><tr><td>Accident</td><td>Past crash reports</td><td>None</td></tr></tbody></table>"
+      },
+      {
+        "heading": "Geo Tracker VIN Decoder",
+        "headingLevel": "h2",
+        "content": "<p>This tool decodes the VIN for Geo Tracker vehicles. See specs, verify trim, and check factory options.</p><p>Great for used buyers and sellers.</p>"
+      },
+      {
+        "heading": "Window Sticker Info by VIN",
+        "headingLevel": "h3",
+        "content": "<p>See the original window sticker for your Geo. It lists pricing, equipment, and fuel ratings from day one.</p><p>Use it to confirm factory features.</p>"
+      },
+      {
+        "heading": "Check Now",
+        "headingLevel": "CTA",
+        "content": "#"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What info does a Geo VIN decoder show?",
+        "answer": "It shows model specs, engine type, factory options, history, recalls, and more."
+      },
+      {
+        "question": "Can I check a Geo with just a license plate?",
+        "answer": "Yes. You can run a license plate lookup to get similar data."
+      },
+      {
+        "question": "Is Geo part of another brand?",
+        "answer": "Yes. Geo was a GM brand with models made in partnership with Suzuki and Toyota."
+      },
+      {
+        "question": "Can I find a window sticker by VIN?",
+        "answer": "Yes. Our tool shows factory window stickers using the VIN."
+      },
+      {
+        "question": "Is this VIN tool free to use?",
+        "answer": "Yes. You can use the decoder to check your Geo’s details at no cost."
+      }
+    ]
+  },
+  "hummer": {
+    "title": "Hummer VIN Decoder",
+    "description": "Use our Hummer VIN decoder to unlock specs, check history, and confirm factory options for any Hummer vehicle.",
+    "metaTitle": "Hummer VIN Decoder | Decode H1, H2, H3 & More",
+    "metaDescription": "Enter your Hummer VIN to see build sheets, configuration images, engine specs, safety equipment, and full vehicle history.",
+    "datePublished": "2025-04-06T08:00:00Z",
+    "dateModified": "2025-04-06T08:00:00Z",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
+    "sections": [
+      {
+        "heading": "What is a Hummer VIN?",
+        "headingLevel": "h2",
+        "content": "<p>Every Hummer vehicle has a unique 17-character VIN. It reveals crucial details about your vehicle including its model, engine, year, and place of manufacture.</p><p>Use this to verify build specs, track service records, and check for theft or accidents.</p>"
+      },
+      {
+        "heading": "Why Use a Hummer VIN Decoder?",
+        "headingLevel": "h3",
+        "content": "<p>Decode your Hummer VIN to confirm its exact configuration before buying or selling. Verify original equipment, factory specs, and previous usage data.</p><p>Useful for avoiding scams and understanding the full history of your Hummer.</p>"
+      },
+      {
+        "heading": "Hummer VIN Structure",
+        "headingLevel": "h3",
+        "content": "<p>Each VIN is split into 3 sections:</p><ul><li><strong>WMI (1–3):</strong> Manufacturer and origin</li><li><strong>VDS (4–9):</strong> Model details like body style, engine, transmission</li><li><strong>VIS (10–17):</strong> Year, plant, and production number</li></ul>"
+      },
+      {
+        "heading": "Where to Locate Your VIN",
+        "headingLevel": "h4",
+        "content": "<p>You’ll find the VIN in several places:</p><ul><li>Driver’s side dash (viewable through the windshield)</li><li>Driver’s side doorjamb</li><li>Front frame rail (right side)</li><li>On your title or registration</li></ul>"
+      },
+      {
+        "heading": "Free Hummer VIN Decoder Tool",
+        "headingLevel": "h2",
+        "content": "<p>Enter your VIN above to get a full decode. You’ll see engine specs, model features, color options, trims, and more.</p><p>Includes optional configuration images based on factory data.</p>"
+      },
+      {
+        "heading": "Build Sheet & Window Sticker",
+        "headingLevel": "h3",
+        "content": "<p>The build sheet outlines everything your Hummer had when it left the factory: colors, options, trims, and more.</p><p>You can also see the original window sticker for full MSRP, equipment list, and fuel ratings.</p>"
+      },
+      {
+        "heading": "Popular Hummer Models Supported",
+        "headingLevel": "h3",
+        "content": "<ul><li>Hummer H1</li><li>Hummer H2</li><li>Hummer H3</li><li>Hummer H3T</li><li>Hummer EV</li></ul>"
+      },
+      {
+        "heading": "VIN Breakdown Table",
+        "headingLevel": "h4",
+        "content": "<p>Key VIN digit meanings:</p><table><thead><tr><th>Position</th><th>Description</th><th>Example</th></tr></thead><tbody><tr><td>1</td><td>Country</td><td>5 = USA</td></tr><tr><td>3</td><td>Manufacturer</td><td>G = GM/Hummer</td></tr><tr><td>10</td><td>Model Year</td><td>8 = 2008</td></tr></tbody></table>"
+      },
+      {
+        "heading": "Sample History Report Items",
+        "headingLevel": "h4",
+        "content": "<p>Here’s what your VIN check may reveal:</p><table><thead><tr><th>Report Item</th><th>Description</th><th>Status</th></tr></thead><tbody><tr><td>Title</td><td>Salvage, rebuilt, or clean</td><td>Clean</td></tr><tr><td>Odometer</td><td>Odometer accuracy and rollback check</td><td>No rollback</td></tr><tr><td>Accident</td><td>Damage or insurance claims</td><td>None reported</td></tr></tbody></table>"
+      },
+      {
+        "heading": "VIN Decoder Steps",
+        "headingLevel": "h2",
+        "content": "<p>Just follow these steps:</p><ol><li>Find the 17-digit VIN on your vehicle.</li><li>Enter it in the decoder tool.</li><li>View a full breakdown of your Hummer's specs and history.</li></ol>"
+      },
+      {
+        "heading": "Check Now",
+        "headingLevel": "CTA",
+        "content": "#"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What does a Hummer VIN decoder show?",
+        "answer": "It reveals engine type, factory options, model year, build sheet, safety equipment, and more."
+      },
+      {
+        "question": "Can I check Hummer history with a license plate?",
+        "answer": "Yes, our tool allows license plate lookups to return VIN data and full reports."
+      },
+      {
+        "question": "Is this decoder free to use?",
+        "answer": "Yes, our basic decoder is free and shows essential vehicle specs."
+      },
+      {
+        "question": "Can I view the original window sticker?",
+        "answer": "Yes. Use the VIN to retrieve your Hummer’s factory window sticker with MSRP and options."
+      },
+      {
+        "question": "Does it work for all Hummer models?",
+        "answer": "Yes. The decoder supports H1, H2, H3, H3T, and even newer electric models."
       }
     ]
   },
@@ -4923,6 +5202,109 @@
       }
     ]
   },
+  "maybach": {
+    "title": "Maybach VIN Decoder",
+    "description": "Check your MAYBACH car’s history with our fast, accurate VIN decoder.",
+    "metaTitle": "Maybach VIN Decoder | VIN Lookup | Vehicle History Report",
+    "metaDescription": "Run a Maybach VIN check to reveal vehicle history, parts info, and more. Quick and easy lookup!",
+    "datePublished": "2025-03-29T08:00:00Z",
+    "dateModified": "2025-03-29T08:00:00Z",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
+    "sections": [
+      {
+        "heading": "What is a Maybach VIN?",
+        "headingLevel": "h2",
+        "content": "<p>The VIN is a 17-digit code that tells you key info about a MAYBACH vehicle. It covers build year, engine type, factory, and more.</p><p>It’s also called a chassis number or serial number.</p>"
+      },
+      {
+        "heading": "Why Use Our MAYBACH Decoder?",
+        "headingLevel": "h3",
+        "content": "<p>Our decoder gives a full report on your MAYBACH. Check past damage, recalls, ownership, repairs, and more.</p><p>It’s fast, accurate, and free.</p>"
+      },
+      {
+        "heading": "How the VIN is Structured",
+        "headingLevel": "h3",
+        "content": "<p>The 17 characters are split into parts:</p><ul><li>First 3: Country and maker</li><li>4–8: Engine and model specs</li><li>9: VIN check digit</li><li>10: Model year</li><li>11–17: Serial number</li></ul>"
+      },
+      {
+        "heading": "VIN Country Codes",
+        "headingLevel": "h4",
+        "content": "<p>Each VIN starts with a country code:</p><ul><li>W = Germany</li><li>5 = USA</li></ul><p>This tells where your MAYBACH was made.</p>"
+      },
+      {
+        "heading": "What Can You Learn?",
+        "headingLevel": "h2",
+        "content": "<p>Get more than specs. Learn about accident history, repairs, mileage issues, title problems, and more.</p><p>We dig deep into your car’s past.</p>"
+      },
+      {
+        "heading": "VIN Example Breakdown",
+        "headingLevel": "h4",
+        "content": "<p>See how each VIN digit tells a story:</p><table><thead><tr><th>Position</th><th>What it Means</th><th>Example</th></tr></thead><tbody><tr><td>1</td><td>Country</td><td>W = Germany</td></tr><tr><td>2–3</td><td>Manufacturer</td><td>Maybach</td></tr><tr><td>10</td><td>Year</td><td>Y = 2000</td></tr></tbody></table>"
+      },
+      {
+        "heading": "VIN Uses for Buyers",
+        "headingLevel": "h3",
+        "content": "<p>Thinking of buying used? Run a VIN check. Find hidden problems before spending money.</p><p>It helps you avoid scams or lemons.</p>"
+      },
+      {
+        "heading": "Where to Find Your VIN",
+        "headingLevel": "h3",
+        "content": "<p>Look for the VIN on the dashboard, driver’s door frame, or in your vehicle papers.</p><p>It’s easy to spot.</p>"
+      },
+      {
+        "heading": "Decoded Info You’ll Get",
+        "headingLevel": "h4",
+        "content": "<p>Your report includes:</p><table><thead><tr><th>Info Type</th><th>Details</th></tr></thead><tbody><tr><td>Accidents</td><td>Reported collisions</td></tr><tr><td>Recalls</td><td>Factory notices</td></tr><tr><td>Ownership</td><td>Previous owners</td></tr><tr><td>Title</td><td>Salvage or clean</td></tr></tbody></table>"
+      },
+      {
+        "heading": "Avoid Costly Mistakes",
+        "headingLevel": "h2",
+        "content": "<p>Don't trust looks alone. Even clean cars can hide damage. A VIN check protects your wallet.</p><p>Know before you buy.</p>"
+      },
+      {
+        "heading": "How It Helps Sellers",
+        "headingLevel": "h3",
+        "content": "<p>Show buyers a full report. Build trust and prove your car’s in great shape.</p><p>More info means faster sales.</p>"
+      },
+      {
+        "heading": "Quick and Easy Lookup",
+        "headingLevel": "h3",
+        "content": "<p>Just enter your 17-digit MAYBACH VIN. Get instant results with full details. No sign-up needed.</p>"
+      },
+      {
+        "heading": "Check Now",
+        "headingLevel": "CTA",
+        "content": "#"
+      },
+      {
+        "heading": "MAYBACH VIN Decoder Benefits",
+        "headingLevel": "h2",
+        "content": "<ul><li>Fast VIN search</li><li>Detailed car history</li><li>Free and accurate</li><li>Works for all MAYBACH models</li></ul>"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is a MAYBACH VIN number?",
+        "answer": "It’s a 17-digit code that holds details about your MAYBACH, like model, engine, and build date."
+      },
+      {
+        "question": "Where can I find my VIN?",
+        "answer": "Check the dashboard near the windshield, the driver’s door frame, or your car paperwork."
+      },
+      {
+        "question": "What does the VIN decoder show?",
+        "answer": "It shows vehicle specs, accident reports, service history, recalls, and more."
+      },
+      {
+        "question": "Can I check any MAYBACH model?",
+        "answer": "Yes, our tool works for all MAYBACH vehicles with a standard 17-digit VIN."
+      },
+      {
+        "question": "Is this VIN check really free?",
+        "answer": "Yes, you can run a basic report at no cost."
+      }
+    ]
+  },
   "mclaren": {
     "title": "McLaren VIN Decoder",
     "description": "Unlock the history of your McLaren with our comprehensive VIN decoder tool for all McLaren models.",
@@ -6109,6 +6491,99 @@
       }
     ]
   },
+  "peterbilt": {
+    "title": "Peterbilt VIN Decoder",
+    "description": "Check Peterbilt truck features and specs fast with our easy-to-use VIN decoder.",
+    "metaTitle": "Peterbilt VIN Decoder | Lookup VIN & View Specs",
+    "metaDescription": "Run our Peterbilt VIN decoder to check features, specs, and options. Simple, fast, and accurate.",
+    "datePublished": "2025-03-29T08:00:00Z",
+    "dateModified": "2025-03-29T08:00:00Z",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
+    "sections": [
+      {
+        "heading": "What is the Peterbilt VIN Decoder?",
+        "headingLevel": "h2",
+        "content": "<p>Use it to find specs, features, and options for any Peterbilt truck. Enter the VIN to get started.</p><ul><li>Check original features</li><li>View package details</li><li>See factory specs</li></ul>"
+      },
+      {
+        "heading": "Why Decode Your VIN?",
+        "headingLevel": "h3",
+        "content": "<p>Know what your truck came with. Use this info for sales, repairs, or insurance claims.</p><ol><li>Find hidden problems</li><li>Confirm listed options</li><li>Verify production data</li></ol>"
+      },
+      {
+        "heading": "How to Use the Peterbilt VIN Decoder",
+        "headingLevel": "h3",
+        "content": "<p>Just enter your 17-digit VIN into the decoder tool. Get instant details.</p><ul><li>Locate your VIN</li><li>Type it in</li><li>View your report</li></ul>"
+      },
+      {
+        "heading": "Where to Find Your VIN",
+        "headingLevel": "h4",
+        "content": "<p>You can find your VIN in one of these spots:</p><ul><li>Bottom corner of windshield</li><li>Driver’s door or door frame</li><li>Engine block</li><li>Title or registration</li><li>Insurance card</li></ul>"
+      },
+      {
+        "heading": "What’s in a VIN?",
+        "headingLevel": "h2",
+        "content": "<p>Each VIN has 17 characters that reveal key info:</p><ul><li>WMI: First 3 digits show country and maker</li><li>VDS: Middle digits show model, engine, and body style</li><li>VIS: Last digits are plant and serial number</li></ul>"
+      },
+      {
+        "heading": "Brief History of Peterbilt",
+        "headingLevel": "h3",
+        "content": "<p>Founded in 1939, Peterbilt is known for tough, reliable trucks built in the U.S.</p><ul><li>Started in Oakland, CA</li><li>Part of PACCAR</li><li>First model: 260</li></ul>"
+      },
+      {
+        "heading": "VIN Breakdown Table",
+        "headingLevel": "h4",
+        "content": "<p>Here's how a VIN is structured:</p><table><thead><tr><th>Part</th><th>Position</th><th>Meaning</th></tr></thead><tbody><tr><td>WMI</td><td>1–3</td><td>Country and manufacturer</td></tr><tr><td>VDS</td><td>4–9</td><td>Model details</td></tr><tr><td>VIS</td><td>10–17</td><td>Year, plant, and serial</td></tr></tbody></table>"
+      },
+      {
+        "heading": "Common Peterbilt Models",
+        "headingLevel": "h4",
+        "content": "<p>Popular VIN-supported models include:</p><table><thead><tr><th>Model</th><th>Series</th><th>Type</th></tr></thead><tbody><tr><td>Peterbilt 389</td><td>Classic</td><td>Sleeper Cab</td></tr><tr><td>Peterbilt 579</td><td>Highway</td><td>Day Cab/Sleeper</td></tr><tr><td>Peterbilt 567</td><td>Vocational</td><td>Dump/Utility</td></tr></tbody></table>"
+      },
+      {
+        "heading": "What’s a Vehicle History Report?",
+        "headingLevel": "h3",
+        "content": "<p>This report shows past damage, title status, recalls, and more. It gives a full background check.</p>"
+      },
+      {
+        "heading": "Why Use a VIN Report?",
+        "headingLevel": "h3",
+        "content": "<ul><li>Spot hidden issues</li><li>Check if car was in an accident</li><li>Verify mileage and title info</li></ul>"
+      },
+      {
+        "heading": "Peterbilt VIN Lookup Advice",
+        "headingLevel": "h2",
+        "content": "<p>Always check the VIN before buying used. It helps avoid scams and hidden damage.</p><p>Use EpicVIN’s tool for reliable results.</p>"
+      },
+      {
+        "heading": "Check Now",
+        "headingLevel": "CTA",
+        "content": "#"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Why won’t my Peterbilt VIN decode?",
+        "answer": "The VIN may be wrong, missing, or from a model not in the system."
+      },
+      {
+        "question": "Can I use the decoder without a VIN?",
+        "answer": "No. You need a valid VIN to get details."
+      },
+      {
+        "question": "Is there a VIN alternative for car reports?",
+        "answer": "Yes. Use the license plate with a plate lookup tool."
+      },
+      {
+        "question": "Are VINs used outside the U.S.?",
+        "answer": "Yes. All cars made after 1981 use standard 17-digit VINs worldwide."
+      },
+      {
+        "question": "Can a VIN show if the engine is original?",
+        "answer": "Sometimes. If it’s numbers-matching, the VIN or report may show it."
+      }
+    ]
+  },
   "porsche": {
     "title": "Porsche VIN Decoder",
     "description": "Unlock the history of your Porsche with our comprehensive VIN decoder tool for all Porsche models.",
@@ -6653,6 +7128,104 @@
       {
         "question": "Steps to Decode a Rolls-Royce VIN",
         "answer": "Locate the 17-digit VIN on your vehicle or documents. Enter the VIN into a trusted Rolls-Royce VIN lookup tool. Retrieve vehicle specs, history, and any outstanding recalls. Verify details before purchasing, selling, or repairing your Rolls-Royce."
+      }
+    ]
+  },
+  "saab": {
+    "title": "Saab VIN Decoder",
+    "description": "Decode your Saab VIN to reveal detailed specs, parts, and vehicle history.",
+    "metaTitle": "Saab VIN Decoder | Lookup VIN, Specs & History",
+    "metaDescription": "Use the Saab VIN Decoder to uncover your vehicle’s features, service history, and original parts. Fast, free, and accurate.",
+    "datePublished": "2025-03-29T08:00:00Z",
+    "dateModified": "2025-03-29T08:00:00Z",
+    "dataSources": [{"source": "makesList", "prefix": "vin-decoder"}],
+    "sections": [
+      {
+        "heading": "What is the Saab VIN Decoder?",
+        "headingLevel": "h2",
+        "content": "<p>The Saab VIN Decoder helps you find exact details about your Saab vehicle, including factory-installed parts, original specs, and visual configurations.</p>"
+      },
+      {
+        "heading": "Why Decode a Saab VIN?",
+        "headingLevel": "h3",
+        "content": "<p>Whether you're an owner or buyer, decoding the VIN reveals accurate data on parts, packages, and options. It also helps avoid costly mistakes when buying used.</p>"
+      },
+      {
+        "heading": "VIN Overview",
+        "headingLevel": "h3",
+        "content": "<p>The Vehicle Identification Number (VIN) is a unique 17-character code assigned to each Saab. It includes info about the car’s origin, engine, trim, and more.</p>"
+      },
+      {
+        "heading": "Where to Find Your Saab VIN",
+        "headingLevel": "h3",
+        "content": "<ul><li>Engine compartment (on right shock tower or fender)</li><li>Driver-side B-pillar</li><li>Interior stickers</li><li>Base of windshield (visible from outside)</li></ul>"
+      },
+      {
+        "heading": "What Can a Saab VIN Tell You?",
+        "headingLevel": "h2",
+        "content": "<p>The VIN reveals:</p><ul><li>Manufacture date and location</li><li>Engine type and transmission</li><li>Exterior/interior colors</li><li>Trim level and factory packages</li></ul>"
+      },
+      {
+        "heading": "Saab VIN Services with Visual Configs",
+        "headingLevel": "h3",
+        "content": "<p>Some Saab decoders even show you configuration images—like paint, wheels, and interior trim—giving you a virtual showroom experience of your car.</p>"
+      },
+      {
+        "heading": "Buying a Used Saab?",
+        "headingLevel": "h3",
+        "content": "<p>Always check the VIN before purchase. The VIN shows past accidents, odometer fraud, and ownership history. Platforms like Carfax or carVertical offer detailed reports.</p>"
+      },
+      {
+        "heading": "Saab VIN Decoder Uses",
+        "headingLevel": "h4",
+        "content": "<p>Great for:</p><ul><li>Finding the right replacement parts</li><li>Checking compatibility of upgrades</li><li>Confirming a car's original features</li></ul>"
+      },
+      {
+        "heading": "Top Saab VIN Decoding Services",
+        "headingLevel": "h2",
+        "content": "<table><thead><tr><th>Service</th><th>Coverage</th><th>Notes</th></tr></thead><tbody><tr><td>VIN-tolken by SPEEDPARTS</td><td>1986+ Saab, especially 9-3, 9-5</td><td>High-detail info</td></tr><tr><td>Saab Club Portugal</td><td>1950–2014</td><td>Lower detail, broad model support</td></tr><tr><td>General VIN Decoder</td><td>All cars</td><td>Also supports old Saab models</td></tr></tbody></table>"
+      },
+      {
+        "heading": "Saab VIN Breakdown Example",
+        "headingLevel": "h4",
+        "content": "<table><thead><tr><th>Position</th><th>Detail</th><th>Example</th></tr></thead><tbody><tr><td>1–3</td><td>Manufacturer & Country</td><td>YS3 = Saab Sweden</td></tr><tr><td>4–8</td><td>Vehicle Type/Model</td><td>CF65X = Saab 9-3</td></tr><tr><td>10</td><td>Model Year</td><td>5 = 2005</td></tr><tr><td>17</td><td>Serial Number</td><td>Unique per car</td></tr></tbody></table>"
+      },
+      {
+        "heading": "Benefits for Saab Owners",
+        "headingLevel": "h3",
+        "content": "<p>Use your VIN to:</p><ul><li>Find exact factory parts</li><li>Match paint codes and interiors</li><li>Identify recall status</li></ul>"
+      },
+      {
+        "heading": "Start Your Saab VIN Search",
+        "headingLevel": "CTA",
+        "content": "#"
+      },
+      {
+        "heading": "Saab VIN Decoder Features",
+        "headingLevel": "h2",
+        "content": "<ul><li>Factory specs and packages</li><li>Visual car configuration</li><li>VIN location guide</li><li>Used car history insight</li></ul>"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where is my Saab VIN located?",
+        "answer": "You can find it under the hood, on the B-pillar, on interior labels, or visible through the windshield."
+      },
+      {
+        "question": "What does the Saab VIN tell me?",
+        "answer": "It tells you your car’s specs, engine, model, build year, and more."
+      },
+      {
+        "question": "Can I check older Saab models?",
+        "answer": "Yes, certain services like the Saab Club Portugal decoder cover vehicles as early as 1950."
+      },
+      {
+        "question": "Do VIN decoders show my Saab's parts?",
+        "answer": "Some Saab-specific tools can identify parts based on your VIN, which is great for repairs and replacements."
+      },
+      {
+        "question": "Are VIN decoders free?",
+        "answer": "Many are. Some detailed history reports (like Carfax) may cost extra."
       }
     ]
   },

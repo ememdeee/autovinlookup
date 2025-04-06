@@ -32,7 +32,7 @@ interface PageDate {
       datePublished: '2024-12-22',
       dateModified: '2025-03-02',
     },
-    '/window-sticker': {
+    '/window-sticker-by-vin': {
       datePublished: '2024-12-22',
       dateModified: '2025-03-02',
     },

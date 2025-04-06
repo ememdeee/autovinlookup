@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   title: 'Our Blog Articles | ChassisVIN',
   description: 'Discover insights about vehicle history, maintenance, and buying guides on our blog.',
   alternates: {
-    canonical: 'https://www.chassisvin.com/blogs',
+    canonical: 'https://www.autovinlookup.com/blogs',
   },
   other: {
     datePublished: '2024-12-09',

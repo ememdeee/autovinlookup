@@ -9,7 +9,7 @@ interface VinImportanceSectionProps {
 
 const VinImportanceSection: React.FC<VinImportanceSectionProps> = ({
   title = "The Importance of Checking a Used Car's VIN",
-  mainContent = "When you're buying a used car, the VIN is your best friend, and the window sticker can help confirm its specifications. Checking a car's VIN gives you access to its history, including accident reports, previous owners, and any recalls. By using a service like toyotavindecoder.com, you can generate a vehicle condition report. This report can reveal important things like whether the car was in an accident, how well it was maintained, or if it's ever been stolen.",
+  mainContent = "When you're buying a used car, the VIN is your best friend, and the window sticker can help confirm its specifications. Checking a car's VIN gives you access to its history, including accident reports, previous owners, and any recalls. By using a service like autovinlookup.com, you can generate a vehicle condition report. This report can reveal important things like whether the car was in an accident, how well it was maintained, or if it's ever been stolen.",
   highlightedContent = "If a seller can't provide the car's VIN, consider that a red flag. They may be hiding something about the car's history. It's always wise to check the VIN on the car itself—it's usually on the dashboard near the windshield—and run it through a service like Toyota VIN Decoder.",
 }) => {
   return (
