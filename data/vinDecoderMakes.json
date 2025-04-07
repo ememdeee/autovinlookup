@@ -122,7 +122,7 @@
       {
         "heading": "Importance of VIN Decoding",
         "headingLevel": "h2",
-        "content": "<p>VIN decoding is crucial for understanding a Spider or 8c's history, identifying its specifications and spec, and accessing important information such as recalls and vehicle maintenance. By utilizing an <a href='/alfa-romeo-vin-decoder'>Alfa Romeo VIN decoder</a>, individuals can gain comprehensive insights into the vehicle's background, enabling informed decision-making when purchasing, selling, or maintaining an Alfa Romeo vehicle.</p>"
+        "content": "<p>VIN decoding is crucial for understanding a Spider or 8c's history, identifying its specifications and spec, and accessing important information such as recalls and vehicle maintenance. By utilizing an <a href='/vin-decoder/alfa-romeo'>Alfa Romeo VIN decoder</a>, individuals can gain comprehensive insights into the vehicle's background, enabling informed decision-making when purchasing, selling, or maintaining an Alfa Romeo vehicle.</p>"
       },
       {
         "heading": "Alfa Romeo VIN Number Structure",
@@ -9784,7 +9784,7 @@
     "metaDescription": "Use our Suzuki VIN decoder for an accurate vehicle history report. Faster than other Suzuki VIN decoders!",
     "datePublished": "2025-04-06T19:00:00Z",
     "dateModified": "2025-04-06T19:00:00Z",
-    "dataSources": [{"source": "suzukiModelsList", "prefix": "vin-decoder/suzuki"}],
+    "dataSources": [{"source": "suzukiModelsList", "prefix": "vin-decoder"}],
     "sections": [
       {
         "heading": "What is a Suzuki VIN?",

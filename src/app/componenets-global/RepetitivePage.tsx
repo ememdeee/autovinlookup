@@ -38,7 +38,7 @@ function getContent(contents: { [key: string]: Content }, key: string): Content 
 
 export function generateMetadata({ contents, params }: Pick<RepetitivePageProps, "contents" | "params">): Metadata {
   const key = params.make || params.page
-  console.log("params: ", params)
+  // console.log("params: ", params)
 
   const parent = params.make != null ? params.page : "-"
   const content = getContent(contents, key)
