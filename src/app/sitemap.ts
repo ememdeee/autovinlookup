@@ -1,5 +1,8 @@
 import { MetadataRoute } from 'next'
 import mainPages from '@/data/pages.json'
+import vinDecoderPages from '@/data/vinDecoderMakes.json'
+import licensePlatePages from '@/data/licensePlateLookupStates.json'
+import blogsPages from '@/data/blogs.json'
 import { getPageDates } from '@/data/pageDates'
 import fs from 'fs'
 import path from 'path'
@@ -72,14 +75,36 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     })
     
   // 4. Entries from other json files
+  const vinDecoderEntries = Object.entries(vinDecoderPages).map(([slug, page]) => ({
+    url: formatUrl(`${baseUrl}/vin-decoder`, slug),
+    lastModified: new Date(page.dateModified),
+    changeFrequency: 'weekly' as const,
+    priority: 0.8,
+  }))
+
+  const licensePlateEntries = Object.entries(licensePlatePages).map(([slug, page]) => ({
+    url: formatUrl(`${baseUrl}/license-plate-lookup`, slug),
+    lastModified: new Date(page.dateModified),
+    changeFrequency: 'weekly' as const,
+    priority: 0.8,
+  }))
 
   // 5. Entries from blogs.json
+  const blogEntries = Object.entries(blogsPages).map(([slug, page]) => ({
+    url: formatUrl(`${baseUrl}/blogs`, slug),
+    lastModified: new Date(page.dateModified),
+    changeFrequency: 'weekly' as const,
+    priority: 0.8,
+  }))
 
   // Combine all entries in the specified order
   const allEntries = [
     homeEntry,
     ...manualEntries,
     ...pageEntries,
+    ...vinDecoderEntries,
+    ...licensePlateEntries,
+    ...blogEntries,
   ]
 
   // Remove duplicate entries

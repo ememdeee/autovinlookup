@@ -71,6 +71,15 @@ export function Footer() {
                   Sample
                 </Link>
               </li>
+              <li>
+                <Link
+                  href="/blogs"
+                  target="_blank"
+                  className="text-sm text-foreground/80 hover:text-primary transition-colors font-serif"
+                >
+                  Blogs
+                </Link>
+              </li>
             </ul>
           </div>
           <div className="space-y-3">
